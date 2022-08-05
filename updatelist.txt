@@ -1,5 +1,5 @@
 Amber	08-03-22
-plugins/Amber/plugininfo.txt	https://drive.google.com/file/d/1GC0LtjDs-eyH3nZ5cdonHnNyhBrf92so/view?usp=sharing	10246336
-plugins/Amber/sets/setimages/general/cardback.jpg	https://docs.google.com/document/d/1OiKnnySN7-YFApjmR6_-CsPuykiZLPBtXYO9vl2XeKo/edit?usp=sharing	10194446
+plugins/Amber/plugininfo.txt	https://docs.google.com/document/d/1B560eqyJXcbjb5nkai6hV8tcBnmbdpzEyUWqzsbNS2k/edit?usp=sharing	215990
+plugins/Amber/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg/raw/main/cardback.jpg	636053
 CardGeneralURLs:		
 https://drive.google.com/drive/folders/1SBVmTAAiW5tMP8axXQ0S5A270bQf9U19?usp=sharing
