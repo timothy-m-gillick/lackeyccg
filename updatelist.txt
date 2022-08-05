@@ -1,6 +1,7 @@
 Amber	08-03-22
-plugins/Amber/plugininfo.txt	https://docs.google.com/document/d/1B560eqyJXcbjb5nkai6hV8tcBnmbdpzEyUWqzsbNS2k/edit?usp=sharing	49375
-plugins/Amber/sets/carddata.txt	https://docs.google.com/document/d/1OiKnnySN7-YFApjmR6_-CsPuykiZLPBtXYO9vl2XeKo/edit?usp=sharing	4631826
-plugins/Amber/sets/setimages/general/cardback.jpg	https://drive.google.com/file/d/1OgGrtAOuj8Bi2Vdmm4Im7er2rf7mBIbM/view?usp=sharing	-27967
+plugins/Amber/plugininfo.txt	https://docs.google.com/document/d/1B560eqyJXcbjb5nkai6hV8tcBnmbdpzEyUWqzsbNS2k/edit?usp=sharing	
+plugins/Amber/sets/carddata.txt	https://docs.google.com/document/d/1OiKnnySN7-YFApjmR6_-CsPuykiZLPBtXYO9vl2XeKo/edit?usp=sharing	
+plugins/Amber/sets/setimages/general/cardback.jpg	https://drive.google.com/file/d/1OgGrtAOuj8Bi2Vdmm4Im7er2rf7mBIbM/view?usp=sharing	
+
 CardGeneralURLs:		
-https://drive.google.com/drive/folders/1SBVmTAAiW5tMP8axXQ0S5A270bQf9U19?usp=sharing		
+https://drive.google.com/drive/folders/1SBVmTAAiW5tMP8axXQ0S5A270bQf9U19?usp=sharing
